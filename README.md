@@ -77,6 +77,5 @@ The database consists of the following tables:
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/bssavinash202/Instagram_clone_database_mySQL.git
+   
