@@ -74,6 +74,14 @@ The database consists of the following tables:
   - `tag_id`: INT, Foreign Key referencing `tags(id)`
 - **Primary Key**: (`photo_id`, `tag_id`)
 
+### Project Challenges
+1. Finding the 5 oldest users
+2. What days of the week do most users registered on.
+3. Find the users who have never posted a photo
+4. Find out the most likes in a single photo
+5. Find number of users who have liked every single photo on the site
+6. What are the top 5 most commonly used Hastags
+   
 ## Installation
 
 1. Clone the repository:
